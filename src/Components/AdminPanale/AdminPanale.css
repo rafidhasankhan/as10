@@ -1,0 +1,10 @@
+.admin_dashbord_main{
+    min-height: 400px;
+}
+
+.admin_dashbord{
+    width: 80%;
+    margin-left: 10%;
+    min-height: 300px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

@@ -1,0 +1,12 @@
+.make_plan_main{
+    background-image: url('https://programmingtask.000webhostapp.com/p-hero/full-stack/normal/plan.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    min-height: 500px;
+}
+
+.tour_h1{
+    color: red;
+}
